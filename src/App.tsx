@@ -1,4 +1,4 @@
-import { useState, FormEvent } from 'react';
+import { useState, type FormEvent } from 'react';
 import { 
   ArrowRight, 
   Menu, 
@@ -16,7 +16,6 @@ import {
   MessageSquare,
   Search
 } from 'lucide-react';
-import devhubLogo from './assets/devhub.jpeg';
 import './index.css';
 
 interface Program {

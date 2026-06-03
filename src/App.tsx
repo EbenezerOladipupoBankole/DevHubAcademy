@@ -125,23 +125,23 @@ export default function App() {
   // Mentors Data
   const mentors = [
     {
-      name: 'Ebenezer Bankole',
-      role: 'Lead Fullstack Instructor',
-      bio: 'Software Architect with extensive experience in React ecosystems, scalable APIs, and serverless engineering. Community builder.',
+      name: 'Odusile Joseph',
+      role: 'Full Stack Developer',
+      bio: 'Experienced full stack developer with deep expertise in React, modern UI architecture, and building accessible, high-performance web applications.',
       github: '#',
       linkedin: '#'
     },
     {
-      name: 'Sarah Jenkins',
-      role: 'Mobile Engineering Lead',
-      bio: 'Senior iOS/Android architect with 7+ years of experience. Formerly built mobile systems at scale in fintech startups.',
+      name: 'Oyeniran Moshod',
+      role: 'Backend & Systems Instructor',
+      bio: 'Backend specialist with hands-on experience in Node.js, PostgreSQL, cloud infrastructure, and designing scalable production-grade APIs.',
       github: '#',
       linkedin: '#'
     },
     {
-      name: 'David Kojo',
-      role: 'DevOps & Systems Expert',
-      bio: 'Cloud Architect specialized in Kubernetes clusters, Docker scaling, database profiling, and secure CI/CD build engines.',
+      name: 'Bankole Ebenezer',
+      role: 'Python Developer',
+      bio: 'Python engineer with extensive experience in backend systems, data engineering, automation, and building scalable server-side architectures.',
       github: '#',
       linkedin: '#'
     }
